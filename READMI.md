@@ -18,3 +18,58 @@ Drive D. Nomeada com o nome do usuario.
 
 <img src="nova-maquina-virtual.png">
 
+## Configurações da máquina virtual 
+
+Utilize a ISO Ubunto Server 22.04 
+
+<a href="https://ubuntu.com/download/desktop"> Faça o Download aqui </a>  
+
+Coloque seu nome de usuário e senha 
+
+<img src="usuario-senha.png">
+
+Para configurações de hardware coloque 4000 mb de memória base e 2 de processadores 
+
+<img src="hardware.png">
+
+
+Para armazenamento de disco utilize a quantidade de 100 Gb.
+
+<img src="armazenamento.png">
+
+## Aguarde a instalação 
+
+<img src="instalacao.png">
+
+### Seguindo a sequência da instalação 
+
+Selecione a opção português caso deseje
+
+<img src="idioma.png">
+
+Selecione português Brasil 
+
+<img src="portugues-brasil.png">
+
+Selecione ubunto server
+
+<img src="ubunto-server.png">
+
+
+Aguarde a conclusão e selecione concluído 
+
+<img src="mirror-address.png">
+
+
+Mantenha essa configuração e selecione concluído 
+
+<img src="storage.png">
+<img src="padrao.png">
+
+
+
+
+
+
+
+
